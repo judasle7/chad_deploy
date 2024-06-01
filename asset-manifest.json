@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.4189c588.css",
-    "main.js": "/static/js/main.c00e2219.js",
-    "static/js/648.aa18b25d.chunk.js": "/static/js/648.aa18b25d.chunk.js",
-    "static/js/227.4e80925e.chunk.js": "/static/js/227.4e80925e.chunk.js",
-    "static/js/255.aa659af0.chunk.js": "/static/js/255.aa659af0.chunk.js",
-    "static/js/453.fe6fa6a4.chunk.js": "/static/js/453.fe6fa6a4.chunk.js",
+    "main.css": "/static/css/main.e13649bb.css",
+    "main.js": "/static/js/main.f94b76bb.js",
+    "static/js/453.704139a1.chunk.js": "/static/js/453.704139a1.chunk.js",
     "static/media/background.png": "/static/media/background.7fc430d9a4123352073b.png",
     "static/media/MS_Sans_Serif.ttf": "/static/media/MS_Sans_Serif.93905f8d36305f50ab93.ttf",
     "static/media/MS_Sans_Serif_Bold.ttf": "/static/media/MS_Sans_Serif_Bold.d8e6bbaabc2eee1f8484.ttf",
+    "static/media/loved.svg": "/static/media/loved.98eb3ce74ae8cfce52c44294e473e99d.svg",
+    "static/media/love.svg": "/static/media/love.15033409db0cb616542d12b8d2795615.svg",
     "static/media/ThaleahFat.ttf": "/static/media/ThaleahFat.71751663861dbbb0b08c.ttf",
-    "index.html": "/index.html"
+    "static/media/folder.svg": "/static/media/folder.039b02d01cdb6e02b0f49e8d029de176.svg",
+    "static/media/copy.svg": "/static/media/copy.e38b24d8aec7409ed838a3268f5fbfc0.svg",
+    "static/media/refresh.svg": "/static/media/refresh.9d651f2d016b0f43f2c70740f56bd33f.svg",
+    "index.html": "/index.html",
+    "static/media/close.svg": "/static/media/close.05f33fbedbb1fe488ccad1272f78b2d0.svg",
+    "main.e13649bb.css.map": "/static/css/main.e13649bb.css.map",
+    "main.f94b76bb.js.map": "/static/js/main.f94b76bb.js.map",
+    "453.704139a1.chunk.js.map": "/static/js/453.704139a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4189c588.css",
-    "static/js/main.c00e2219.js"
+    "static/css/main.e13649bb.css",
+    "static/js/main.f94b76bb.js"
   ]
 }
